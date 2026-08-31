@@ -17,7 +17,7 @@ Soy **tech enthusiast** y estudiante de **Tucumán, Argentina** 🏠🇦🇷, co
 - 🎓 **Estudiando:** Ingeniería en Sistemas de Información — UTN FRT
 - 🌱 **Aprendiendo ahora:** C#, ASP.NET, HTML, CSS y JavaScript.
 - 🔭 **Trabajando en:** mejorar mi inglés, la comunicación con los clientes y entendimiento logico.
-- ⚡ **Fun fact:** si algo se puede romper para entender cómo funciona, seguramente ya lo intenté
+- 🎮 **Fun fact: paso más tiempo platinando juegos que mi código.**
 - 📫 **Contacto:** `danftzz` (Instagram) - `fate_41` (Discord)
 
 ---
@@ -59,7 +59,6 @@ Cuando no estoy estudiando, me podés encontrar:
 - 🎮 **Jugando:** _League of legends, Overwatch, CS2 o platinando algun juego_
 - 🍕 **A puro café y desvelo.** 
 - 🎧 **Con música de fondo mientras programo.**
-- 🎮 **Fun fact: paso más tiempo platinando juegos que mi código.**
 - 📚 **Leyendo sobre analisis de sistemas o diversas tecnologias.**
 
 ---
